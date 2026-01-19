@@ -1,10 +1,8 @@
 # Prairies-Field-Boundary-Data
-Field boundary of the Canadian Prairies for downloading
-Prairies Field Boundary Data
 
 <img width="1232" height="590" alt="image" src="https://github.com/user-attachments/assets/e2c682b6-8639-46d4-bdb9-00b22052e5b4" />
 
-Overview
+**Overview**
 
 This repository documents and links to the Prairies Field Boundary Dataset, a large-scale geospatial dataset of agricultural field boundaries across the Canadian Prairies derived from Sentinel-2 imagery using the Segment Anything Model (SAM v2). The dataset provides polygon representations of cultivated fields suitable for regional to continental-scale agricultural and environmental analyses.
 
@@ -20,19 +18,19 @@ Data source location	Canadian Prairies (Alberta, Saskatchewan, Manitoba), approx
 Data accessibility	Publicly available via Mendeley Data with interactive visualization through a Google Earth Engine web app
 Data Access
 
-Repository name
+**Repository name**
 A field boundary dataset for the Canadian Prairies derived from Sentinel-2 imagery using the Segment Anything Model (version 2)
 
 DOI
 10.17632/2y568rt76w.1
 
-Direct Links
+**Direct Links**
 
 Download dataset: https://data.mendeley.com/datasets/2y568rt76w/1
 
 Online visualization: https://cropagronomyusask.users.earthengine.app/view/field-boundaries
 
-1. Downloading the Dataset
+**1. Downloading the Dataset**
 
 The complete dataset can be downloaded from Mendeley Data.
 
@@ -52,7 +50,7 @@ Python: geopandas
 
 R: sf
 
-2. Visualizing the Data Online (No Download Required)
+**2. Visualizing the Data Online **
 
 An interactive Google Earth Engine web application is available for rapid visualization and inspection of the field boundaries.
 
@@ -69,7 +67,7 @@ Toggle layers and inspect individual field boundary polygons.
 
 Note: The web application is intended for visualization and quality assessment only and does not replace the downloadable dataset for analysis.
 
-3. Using the Data in GIS and Analysis Workflows
+3.** Using the Data in GIS and Analysis Workflows**
 
 The field boundary polygons can be integrated into spatial workflows and overlaid with other datasets such as:
 
@@ -91,7 +89,7 @@ Crop monitoring and modelling
 
 Spatial machine learning and data cube development
 
-Citation
+**Citation**
 
 When using this dataset in scientific publications or derivative works, please cite:
 
