@@ -50,7 +50,7 @@ Python: geopandas
 
 R: sf
 
-**2. Visualizing the Data Online **
+**2. Visualizing the Data Online**
 
 An interactive Google Earth Engine web application is available for rapid visualization and inspection of the field boundaries.
 
@@ -67,7 +67,7 @@ Toggle layers and inspect individual field boundary polygons.
 
 Note: The web application is intended for visualization and quality assessment only and does not replace the downloadable dataset for analysis.
 
-3.** Using the Data in GIS and Analysis Workflows**
+**3. Using the Data in GIS and Analysis Workflows**
 
 The field boundary polygons can be integrated into spatial workflows and overlaid with other datasets such as:
 
