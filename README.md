@@ -1,6 +1,9 @@
 # Prairies-Field-Boundary-Data
 Field boundary of the Canadian Prairies for downloading
 Prairies Field Boundary Data
+
+<img width="1232" height="590" alt="image" src="https://github.com/user-attachments/assets/e2c682b6-8639-46d4-bdb9-00b22052e5b4" />
+
 Overview
 
 This repository documents and links to the Prairies Field Boundary Dataset, a large-scale geospatial dataset of agricultural field boundaries across the Canadian Prairies derived from Sentinel-2 imagery using the Segment Anything Model (SAM v2). The dataset provides polygon representations of cultivated fields suitable for regional to continental-scale agricultural and environmental analyses.
