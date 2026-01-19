@@ -92,15 +92,12 @@ Spatial machine learning and data cube development
 **Citation**
 
 When using this dataset in scientific publications or derivative works, please cite:
-
 Ha, T., Nketia, K. A., Fernando, H., van Steenbergen, S., Neudorf, S., & Shirtliffe, S. (2025). A field boundary dataset for the Canadian Prairies derived from Sentinel-2 imagery using the Segment Anything Model. Mendeley Data, V1. https://doi.org/10.17632/2y568rt76w.1
 
 Related Research Article
-
 Ha, Thuan; Nketia, Kwabena Abrefa; Fernando, Hansanee; van Steenbergen, Sarah; Neudorf, Shawn; Shirtliffe, Steve J.
 Field boundary delineation with seasonal Sentinel-2 imagery using the Segment Anything Model (SAM).
-Available at SSRN: https://ssrn.com/abstract=5500667
-DOI: http://dx.doi.org/10.2139/ssrn.5500667
+Available at: https://doi.org/10.1016/j.mex.2026.103794
 
 License and Use
 
